@@ -1,0 +1,84 @@
+
+[
+   {
+     "_id": "66afcfaf38f4747bb8ea2d8b",
+     "id": 1,
+     "name": "Grapes",
+     "image": "https://www.jacksonville.com/gcdn/authoring/2017/01/18/NFTU/ghows-LK-6897c679-f0cc-41d1-8241-d3f5f8dbad35-7a9c6006.jpeg?width=660&height=440&fit=crop&format=pjpg&auto=webp",
+     "price": 7,
+     "category": "Fruits",
+     "createdAt": "2024-08-04T19:28:39.938Z"
+   },
+   {
+     "_id": "66afcfaf38f4747bb8ea2d8c",
+     "id": 2,
+     "name": "Oranges",
+     "image": "https://www.allrecipes.com/thmb/y_uvjwXWAuD6T0RxaS19jFvZyFU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1205638014-2000-d0fbf9170f2d43eeb046f56eec65319c.jpg",
+     "price": 5,
+     "category": "Fruits",
+     "createdAt": "2024-08-04T19:28:39.938Z"
+   },
+   {
+     "_id": "66afcfaf38f4747bb8ea2d8d",
+     "id": 3,
+     "name": "mangoes",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Mangos_-_single_and_halved.jpg/1200px-Mangos_-_single_and_halved.jpg",
+     "price": 10,
+     "category": "Fruits",
+     "createdAt": "2024-08-04T19:28:39.938Z"
+   },
+   {
+     "_id": "66afcfaf38f4747bb8ea2d8e",
+     "id": 4,
+     "name": "Chicken",
+     "image": "https://www.simplyrecipes.com/thmb/Sw2rWO2l615LjOnmUyDIWjAMDKg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2007__04__honey-glazed-roast-chicken-horiz-a-1800-2057270028084ff2bdb54fcb0f2d3227.jpg",
+     "price": 15,
+     "category": "Meat",
+     "createdAt": "2024-08-04T19:28:39.938Z"
+   },
+   {
+     "_id": "66afcfaf38f4747bb8ea2d8f",
+     "id": 5,
+     "name": "Mutton",
+     "image": "https://thekitchencommunity.org/wp-content/uploads/2022/10/mutton-meat.jpeg",
+     "price": 19,
+     "category": "Meat",
+     "createdAt": "2024-08-04T19:28:39.939Z"
+   },
+   {
+     "_id": "66afcfaf38f4747bb8ea2d90",
+     "id": 6,
+     "name": "Beef",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNJnWgk4jtjuAJkHEDPAry7rETndWQS1PYlB9MeL9pvMb-EIT_ZYVGNZmZn_MNMmIXnSQ&usqp=CAU",
+     "price": 19,
+     "category": "Meat",
+     "createdAt": "2024-08-04T19:28:39.939Z"
+   },
+   {
+     "_id": "66afcfaf38f4747bb8ea2d91",
+     "id": 7,
+     "name": "Beans",
+     "image": "https://www.liveorganic.co.in/cdn/shop/products/20_French_beans_250g.jpg?v=1659420692",
+     "price": 19,
+     "category": "Vegetables",
+     "createdAt": "2024-08-04T19:28:39.939Z"
+   },
+   {
+     "_id": "66afcfaf38f4747bb8ea2d92",
+     "id": 8,
+     "name": "Tomato",
+     "image": "https://i5.walmartimages.com/seo/Fresh-Slicing-Tomato-Each_a1e8e44a-2b82-48ab-9c09-b68420f6954c.04f6e0e87807fc5457f57e3ec0770061.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
+     "price": 19,
+     "category": "Vegetables",
+     "createdAt": "2024-08-04T19:28:39.939Z"
+   },
+   {
+     "_id": "66afcfaf38f4747bb8ea2d93",
+     "id": 9,
+     "name": "avocado",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV-iSuheptWh0mD1ncJWfe5eP13nQsAmDbdCLjPhHAK44XwnN17pIGSNdwEaTtlJwOssI&usqp=CAU",
+     "price": 19,
+     "category": "Vegetables",
+     "createdAt": "2024-08-04T19:28:39.939Z"
+   }
+ ]
